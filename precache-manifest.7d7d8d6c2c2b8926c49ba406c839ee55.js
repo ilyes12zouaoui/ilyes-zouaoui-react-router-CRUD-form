@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1b454a8357cd2b040b596a9a7e743ce5",
+    "revision": "1756c23c2b53ba279259ba3edab50c91",
     "url": "/ilyes-zouaoui-react-router-CRUD-form/index.html"
   },
   {
